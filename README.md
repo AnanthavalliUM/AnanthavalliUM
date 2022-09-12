@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AnanthavalliUM
+- 👋 Hi, I’m @Ananthavalli UM
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on Full stack app
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on Full Stack App
 - 📫 How to reach me ananthavalli1993@gmail.com
 
 <!---
