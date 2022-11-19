@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 
 Languages and Tools:
-                 ![html](https://user-images.githubusercontent.com/100471735/202862210-0cf417c7-a897-4fb4-9866-16329ceaba77.png) ![css3](https://user-images.githubusercontent.com/100471735/202862644-525ba55c-0f92-43ce-9d87-0de02994eab5.png)
+                 ![html](https://user-images.githubusercontent.com/100471735/202862210-0cf417c7-a897-4fb4-9866-16329ceaba77.png) ![css3](https://user-images.githubusercontent.com/100471735/202862790-ee58bd29-6500-4e15-9804-754283399683.png) 
+
 
 
 
